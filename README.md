@@ -86,10 +86,6 @@ folders) were folded into a single copy; every original location is recorded in
 
 ## Scope
 
-This repository holds **ALS-related analysis code only**. Other work in the same
-working folder — Alzheimer's lipid analyses, traumatic brain injury (TBI) studies
-and the open-source plate-reader instrument — is deliberately excluded.
-
 Data files, model weights and results are **not** included; these are analysis
 scripts only. Paths inside the scripts refer to the original local and HPC
 working directories and will need to be updated before reuse.
